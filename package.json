@@ -1,0 +1,16 @@
+{
+  "name": "test-integration",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Sample Node.js app with services and induced errors for testing.",
+  "dependencies": {
+    "dayjs": "^1.11.10"
+  }
+}
