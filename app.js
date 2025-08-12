@@ -1,6 +1,6 @@
 
-import DateService from './services/dateService.js';
-import FileService from './services/fileService.js';
+import DateService from './dateService.js';
+import FileService from './fileService.js';
 
 try {
     // Get current date and time
